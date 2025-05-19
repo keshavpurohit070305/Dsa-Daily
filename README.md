@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3321-type-of-triangle](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3321-type-of-triangle) |
 ## Math
 |  |
@@ -15,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3321-type-of-triangle](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3321-type-of-triangle) |
+## String
+|  |
+| ------- |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 <!---LeetCode Topics End-->
