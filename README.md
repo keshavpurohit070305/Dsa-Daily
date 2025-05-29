@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0073-set-matrix-zeroes) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0053-maximum-subarray) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
