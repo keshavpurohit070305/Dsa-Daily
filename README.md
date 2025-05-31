@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0002-add-two-numbers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3321-type-of-triangle) |
 ## Sorting
@@ -123,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0004-median-of-two-sorted-arrays) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
