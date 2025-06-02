@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0075-sort-colors) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0048-rotate-image) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3321-type-of-triangle) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0073-set-matrix-zeroes) |
 | [0945-snakes-and-ladders](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0945-snakes-and-ladders) |
 ## Greedy
