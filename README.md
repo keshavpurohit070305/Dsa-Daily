@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0004-median-of-two-sorted-arrays) |
+| [0018-4sum](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0053-maximum-subarray) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0075-sort-colors) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3321-type-of-triangle) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0075-sort-colors) |
 ## Binary Search
