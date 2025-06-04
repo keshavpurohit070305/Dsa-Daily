@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0013-roman-to-integer) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0053-maximum-subarray) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0031-next-permutation) |
