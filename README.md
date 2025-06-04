@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0048-rotate-image) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3201-distribute-candies-among-children-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0012-integer-to-roman) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3194-find-words-containing-character) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0073-set-matrix-zeroes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
