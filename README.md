@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0014-longest-common-prefix) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3194-find-words-containing-character) |
@@ -191,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0014-longest-common-prefix) |
+## Union Find
+|  |
+| ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/1058-lexicographically-smallest-equivalent-string) |
 <!---LeetCode Topics End-->
