@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0020-valid-parentheses) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0020-valid-parentheses) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Backtracking
