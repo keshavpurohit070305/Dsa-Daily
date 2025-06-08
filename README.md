@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0386-lexicographical-numbers) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0386-lexicographical-numbers) |
 ## Union Find
 |  |
 | ------- |
