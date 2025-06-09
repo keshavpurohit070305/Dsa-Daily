@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0067-add-binary) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3321-type-of-triangle) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0067-add-binary) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0067-add-binary) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Tree
 |  |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0067-add-binary) |
 ## Trie
 |  |
 | ------- |
