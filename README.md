@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0067-add-binary) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
