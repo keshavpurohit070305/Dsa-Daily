@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0072-edit-distance) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0072-edit-distance) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
