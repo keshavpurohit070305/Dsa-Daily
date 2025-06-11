@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0071-simplify-path) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0071-simplify-path) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Backtracking
