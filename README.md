@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0101-symmetric-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0101-symmetric-tree) |
 | [0386-lexicographical-numbers](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0386-lexicographical-numbers) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0101-symmetric-tree) |
 | [0945-snakes-and-ladders](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -266,4 +269,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
