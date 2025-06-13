@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0023-merge-k-sorted-lists) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3647-zero-array-transformation-iii) |
 ## Bit Manipulation
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0023-merge-k-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
@@ -273,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0101-symmetric-tree) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
