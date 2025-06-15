@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0067-add-binary) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3201-distribute-candies-among-children-ii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0135-candy) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/2704-maximum-difference-by-remapping-a-digit) |
