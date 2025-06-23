@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0101-symmetric-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0101-symmetric-tree) |
 | [0386-lexicographical-numbers](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0386-lexicographical-numbers) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0101-symmetric-tree) |
 ## Merge Sort
