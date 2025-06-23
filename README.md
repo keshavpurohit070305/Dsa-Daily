@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0135-candy) |
 | [0945-snakes-and-ladders](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0088-merge-sorted-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0088-merge-sorted-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Binary Search
 |  |
