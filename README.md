@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0229-majority-element-ii](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0240-search-a-2d-matrix-ii) |
+| [0410-split-array-largest-sum](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0410-split-array-largest-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0945-snakes-and-ladders](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0072-edit-distance) |
+| [0410-split-array-largest-sum](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0410-split-array-largest-sum) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0410-split-array-largest-sum) |
 | [3639-zero-array-transformation-i](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0135-candy) |
+| [0410-split-array-largest-sum](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0410-split-array-largest-sum) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0240-search-a-2d-matrix-ii) |
+| [0410-split-array-largest-sum](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0410-split-array-largest-sum) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
