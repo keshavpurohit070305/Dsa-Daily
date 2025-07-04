@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Sorting
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0136-single-number) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Tree
 |  |
 | ------- |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0021-merge-two-sorted-lists) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Sliding Window
 |  |
 | ------- |
