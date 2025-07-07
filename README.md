@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0414-third-maximum-number) |
+| [0500-keyboard-row](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0945-snakes-and-ladders](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0072-edit-distance) |
 | [0451-sort-characters-by-frequency](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0500-keyboard-row) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0594-longest-harmonious-subsequence) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/1995-finding-pairs-with-a-certain-sum) |
