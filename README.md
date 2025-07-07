@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0410-split-array-largest-sum) |
+| [0414-third-maximum-number](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0414-third-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0945-snakes-and-ladders](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0229-majority-element-ii) |
+| [0414-third-maximum-number](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0414-third-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
