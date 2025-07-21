@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0500-keyboard-row) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/keshavpurohit070305/Dsa-Daily/tree/master/2260-divide-a-string-into-groups-of-size-k) |
